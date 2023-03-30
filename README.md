@@ -16,3 +16,6 @@ MemeMaker.java
 * text1 -> texto posicionado na esquerda da imagem
 * text2 -> texto posicionado na direita da imagem
 * outputFileName -> O nome do arquivo gerado (não precisa da extensão)
+
+# Demo
+![alt text](https://raw.githubusercontent.com/wan-develop/meme-maker-class/main/print-projeto-meme-maker.png)
